@@ -211,9 +211,11 @@ var list1 = [
   { firstName: 'Ramona', lastName: 'R.', country: 'Paraguay', continent: 'Americas', age: 29, language: 'Ruby', 
     meal: 'vegan' },
   { firstName: 'George', lastName: 'B.', country: 'England', continent: 'Europe', age: 81, language: 'C', 
-    meal: 'vegetarian' },
+    meal: 'vegetaria' },
 ];
-​
+​/*hago un cambio*/
+
+
 /* return ==> { vegetarian: 2, standard: 1, vegan: 1 }
 function retornaMeal(list1){
   const platos = {}
